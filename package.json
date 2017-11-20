@@ -1,0 +1,7 @@
+{
+  "name": "paper-spinner",
+  "version": "2.0.0",
+  "dependencies": {
+    "@bower/polymer": "Polymer/polymer#2"
+  }
+}
