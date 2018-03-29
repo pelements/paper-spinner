@@ -1,13 +1,14 @@
 {
   "name": "paper-spinner",
-  "version": "2.0.0",
-  "license": "http://polymer.github.io/LICENSE.txt",
   "description": "A material design spinner",
+  "private": true,
+  "license": "MIT",
   "main": [
     "paper-spinner.html",
     "paper-spinner-lite.html"
   ],
   "dependencies": {
-    "polymer": "Polymer/polymer#2"
+    "polymer": "^2.0",
+    "webcomponentsjs": "^1.0"
   }
 }

@@ -2,6 +2,14 @@
 # yarn lockfile v1
 
 
-"@bower/polymer@Polymer/polymer#2":
-  version "2.2.0"
-  resolved "https://codeload.github.com/Polymer/polymer/tar.gz/4e4696b082616ea3812d2bd40bf6821c82019046"
+"@polymer/polymer@^2.0":
+  version "2.6.0"
+  resolved "https://registry.yarnpkg.com/@polymer/polymer/-/polymer-2.6.0.tgz#98601124122a045e74f4b41f55975006ef327dbc"
+
+"@webcomponents/shadycss@^1.0":
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/@webcomponents/shadycss/-/shadycss-1.1.2.tgz#947e9306eb2e084a4a3a4fd738aced00721bce92"
+
+"@webcomponents/webcomponentsjs@^1.0":
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/@webcomponents/webcomponentsjs/-/webcomponentsjs-1.1.1.tgz#50caffdf8a901e5357532b7d85e776637a56446a"

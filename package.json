@@ -1,7 +1,20 @@
 {
   "name": "paper-spinner",
-  "version": "2.0.0",
+  "description": "A material design spinner",
+  "version": "2.1.0",
+  "private": true,
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pelements/paper-progress.git"
+  },
   "dependencies": {
-    "@bower/polymer": "Polymer/polymer#2"
+    "@polymer/polymer": "^2.0",
+    "@webcomponents/shadycss": "^1.0",
+    "@webcomponents/webcomponentsjs": "^1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build": "yarn install && cp -R node_modules/@webcomponents/shadycss/ node_modules/@polymer/shadycss/"
   }
 }
